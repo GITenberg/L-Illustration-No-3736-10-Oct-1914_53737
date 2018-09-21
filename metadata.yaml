@@ -1,0 +1,28 @@
+_repo: L-Illustration-No-3736-10-Oct-1914_53737
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- FR La Première Guerre Mondiale, 1914-1918
+- L'Illustration
+gutenberg_issued: '2016-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53737'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustrated periodicals -- France'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'AP'
+- !lcc 'D501'
+- GITenberg
+title: L'Illustration, No. 3736, 10 Oct 1914
+url: http://www.gutenberg.org/ebooks/53737
