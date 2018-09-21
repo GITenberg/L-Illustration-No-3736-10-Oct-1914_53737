@@ -1,5 +1,8 @@
 _repo: L-Illustration-No-3736-10-Oct-1914_53737
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53737-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53737#L-Illustration-No-3736-10-Oct-1914
 gutenberg_bookshelf:
 - FR La Première Guerre Mondiale, 1914-1918
 - L'Illustration
